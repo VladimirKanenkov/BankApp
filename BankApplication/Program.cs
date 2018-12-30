@@ -10,8 +10,6 @@ namespace BankApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Прив");
-            Console.ReadKey();
         }
     }
 }
