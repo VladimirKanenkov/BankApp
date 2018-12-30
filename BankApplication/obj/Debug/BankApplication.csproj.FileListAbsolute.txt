@@ -1,0 +1,10 @@
+C:\Users\Алексей\Documents\GitProgect\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\Алексей\Documents\GitProgect\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\Алексей\Documents\GitProgect\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\Алексей\Documents\GitProgect\BankApplication\BankApplication\obj\Debug\BankApplication.csprojAssemblyReference.cache
+C:\Users\Алексей\Documents\GitProgect\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\GitProgect\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\Алексей\Documents\GitProgect\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+C:\Users\Алексей\Documents\GitProgect\BankApplication\BankApplication\bin\Debug\BankLibrary.dll
+C:\Users\Алексей\Documents\GitProgect\BankApplication\BankApplication\bin\Debug\BankLibrary.pdb
+C:\Users\Алексей\Documents\GitProgect\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CopyComplete

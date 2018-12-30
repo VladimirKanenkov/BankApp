@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BankLibrary
 {
-    class Bank<T> where T:Account
+    public class Bank<T> where T:Account
     {
         private T[] accounts;
         public string Name { get; private set; }
@@ -53,6 +53,10 @@ namespace BankLibrary
             newAccount.Calculated += calculateHandler;
 
             newAccount.Open();
+        }
+        public int Id
+        {
+            get => Id;
         }
 
         public void Put(decimal sum, int id)

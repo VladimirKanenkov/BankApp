@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BankLibrary
 {
-    class Account : IAccount
+    public abstract class Account : IAccount
     {
         protected internal event AccountStateHandler Withdrawed;
         protected internal event AccountStateHandler Added;
