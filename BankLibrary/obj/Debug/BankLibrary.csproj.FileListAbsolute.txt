@@ -3,3 +3,8 @@ C:\Users\Алексей\Documents\GitProgect\BankApplication\BankLibrary\bin\Deb
 C:\Users\Алексей\Documents\GitProgect\BankApplication\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Алексей\Documents\GitProgect\BankApplication\BankLibrary\obj\Debug\BankLibrary.dll
 C:\Users\Алексей\Documents\GitProgect\BankApplication\BankLibrary\obj\Debug\BankLibrary.pdb
+C:\Users\Владимир.Владимир-ОМ\Source\Repos\VladimirKanenkov\BankApp\BankLibrary\obj\Debug\BankLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Владимир.Владимир-ОМ\Source\Repos\VladimirKanenkov\BankApp\BankLibrary\obj\Debug\BankLibrary.dll
+C:\Users\Владимир.Владимир-ОМ\Source\Repos\VladimirKanenkov\BankApp\BankLibrary\obj\Debug\BankLibrary.pdb
+C:\Users\Владимир.Владимир-ОМ\Source\Repos\VladimirKanenkov\BankApp\BankLibrary\bin\Debug\BankLibrary.dll
+C:\Users\Владимир.Владимир-ОМ\Source\Repos\VladimirKanenkov\BankApp\BankLibrary\bin\Debug\BankLibrary.pdb

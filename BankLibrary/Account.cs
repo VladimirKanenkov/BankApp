@@ -30,17 +30,17 @@ namespace BankLibrary
 
         public decimal CurrentSum
         {
-            get => _sum;
+            get {return _sum; }
         }
 
         public int Id
         {
-            get => _id;
+            get { return _id; }
         }
 
         public int Percentage
         {
-            get => _percentage;
+            get { return _percentage; }
         }
 
         private void CallEvent(AccountEventArgs e, AccountStateHandler handler)

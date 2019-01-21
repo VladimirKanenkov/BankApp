@@ -56,7 +56,7 @@ namespace BankLibrary
         }
         public int Id
         {
-            get => Id;
+            get {return Id; }
         }
 
         public void Put(decimal sum, int id)
